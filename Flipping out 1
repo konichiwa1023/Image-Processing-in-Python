@@ -1,0 +1,2 @@
+# Flip the image vertically
+seville_vertical_flip = np.flipud(flipped_seville)
