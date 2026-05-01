@@ -1,0 +1,5 @@
+# Import the module from restoration
+from skimage.restoration import inpaint
+
+# Show the defective image
+show_image(defect_image, 'Image to restore')
