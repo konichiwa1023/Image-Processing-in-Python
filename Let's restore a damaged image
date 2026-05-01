@@ -1,0 +1,2 @@
+# Try importing the function like this
+from skimage.restoration import inpaint
