@@ -1,0 +1,5 @@
+# Import the module and the rotate and rescale functions
+from skimage.transform import rotate, rescale
+
+# Rotate the image 90 degrees clockwise 
+rotated_cat_image = rotate(image_cat, -90)
