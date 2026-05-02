@@ -1,0 +1,2 @@
+# Make the image grayscale
+image_dice = color.rgb2gray(image_dice)
