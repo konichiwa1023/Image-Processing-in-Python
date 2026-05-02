@@ -1,0 +1,2 @@
+# Import the required module
+from skimage import exposure
