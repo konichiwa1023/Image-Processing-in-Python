@@ -1,0 +1,4 @@
+# Find the peaks with a min distance of 10 pixels
+coords_w_min_10 = corner_peaks(measure_image, min_distance=10, threshold_rel=0.02)
+
+print("With a min_distance set to 10, we detect a total", len(coords_w_min_10), "corners in the image.")
